@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prince Dobariya
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate as freelancer
+- 💞️ Let's Build Something with together 
 - 📫 How to reach me 
 
 <div id="header" align="center">
