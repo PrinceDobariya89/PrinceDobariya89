@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Dobariya
-- 👀 I’m interested in application development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in web and mobile application development
+- 🌱 I’m currently learning flutter 
 - 💞️ Let's Build Something with together 
 - 📫 How to reach me 
 
