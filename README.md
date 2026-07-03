@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Prince Dobariya
-- 👀 I’m interested in Mobile and web application development
-- 🌱 I’m currently learning Backend 
-- 💞️ Let's Build Something with together 
-- 📫 How to reach me 
+- 🚀 Flutter Developer | Building useful apps for real-world problems
+
+- 📱 Creator of Khissu & Fasal Dost
+- 💙 Passionate about Flutter, Firebase & AI
+- 🌱 Always learning and shipping products
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/prince-dobariya-8014b518b/">
